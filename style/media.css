@@ -1,0 +1,505 @@
+@media screen and (max-width: 1330px) {
+
+  .main-block {
+    text-align: center;
+  }
+
+  .main-block-title {
+    font-size: 45px;
+  }
+
+  .main-block-subtitle {
+    font-size: 27px;
+  }
+
+  .cards {
+    margin: 10px;
+  }
+
+  .card {
+    width: 33%;
+    padding-bottom: 10px;
+  }
+
+  .card-title {
+    font-size: 25px;
+  }
+
+  .card-subtitle {
+    font-size: 20px;
+  }
+
+  .variants-block {
+    flex-direction: row;
+  }
+
+  .second-block-title {
+    font-size: 30px;
+  }
+
+  .second-block-subtitle {
+    font-size: 24px;
+  }
+
+  .features-block-title {
+    font-size: 30px;
+  }
+
+
+  .features {
+    padding: 0;
+  }
+
+  .feature {
+    width: 33%;
+    padding: 10px 10px;
+  }
+
+  .features-img {
+    width: 10%;
+  }
+
+  .feature-title {
+    font-size: 25px;
+  }
+
+  .features-subtitle {
+    font-size: 20px;
+  }
+
+  .statistics {
+    margin-top: 10px;
+  }
+
+}
+
+
+
+@media screen and (max-width: 1050px) {
+
+
+  .video-block {
+    height: 434px; 
+    padding-top: 0;
+  }
+
+
+  .fullscreen-bg {
+    height: 123%;
+    padding-top: 0%;
+  }
+
+  .overlay {
+    height: 85%;
+  }
+
+  .fullscreen-bg__video {
+    height: 94%;
+  }
+
+
+  .variants {
+    margin-top: 30px;
+  }
+
+  .main-block {
+    text-align: center;
+  }
+
+  .main-block-title {
+    font-size: 35px;
+  }
+
+  .main-block-subtitle {
+    font-size: 27px;
+  }
+
+  .cards {
+    margin: 30px;
+  }
+
+  .card {
+    width: 33%;
+    padding-bottom: 10px;
+  }
+
+  .card-title {
+    font-size: 25px;
+  }
+
+  .card-subtitle {
+    font-size: 20px;
+  }
+
+  .variants-block {
+    flex-direction: row;
+  }
+
+  .first-block {
+    width: 50%;
+    display: flex;
+    align-items: center;
+  }
+
+  .second-block {
+    width: 50%;
+  }
+
+  .features-block-img {
+    width: 100%;
+  }
+
+  .second-block-title {
+    font-size: 30px;
+  }
+
+  .second-block-subtitle {
+    font-size: 24px;
+  }
+
+  .features-block-title {
+    font-size: 30px;
+  }
+
+
+  .features {
+    padding: 0;
+  }
+
+  .feature {
+    width: 33%;
+    padding: 10px 10px;
+  }
+
+  .features-img {
+    width: 10%;
+  }
+
+  .feature-title {
+    font-size: 25px;
+  }
+
+  .features-subtitle {
+    font-size: 20px;
+  }
+
+
+  .statistics {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+
+  .video-block {
+    height: 350px;
+  }
+
+  .fullscreen-bg {
+    height: 100%;
+  }
+
+  .overlay {
+    height: 100%;
+  }
+
+  .fullscreen-bg__video {
+    height: 100%;
+  }
+
+
+  #content {
+    margin-top: 90px;
+  }
+
+  .main-block {
+    padding: 0px 40px;
+    text-align: center;
+  }
+
+  .main-block-title {
+    font-size: 25px;
+    padding-bottom: 20px;
+  }
+
+  .main-block-subtitle {
+    font-size: 23px;
+  }
+
+  .cards {
+    margin: 0px;
+  }
+
+  .card {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
+
+  .card-subtitle {
+    font-size: 16px;
+  }
+
+  .variants-block {
+    flex-direction: row;
+  }
+
+  .first-block {
+    width: 50%;
+    display: flex;
+    align-items: center;
+  }
+
+  .second-block {
+    width: 50%;
+  }
+
+  .features-block-img {
+    width: 100%;
+  }
+
+  .second-block-title {
+    font-size: 20px;
+  }
+
+  .second-block-subtitle {
+    font-size: 16px;
+  }
+
+  .features-block-title {
+    font-size: 20px;
+  }
+
+
+  .features {
+    padding: 0;
+  }
+
+  .feature {
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  .features-img {
+    width: 10%;
+  }
+
+  .feature-title {
+    font-size: 20px;
+  }
+
+  .features-subtitle {
+    font-size: 16px;
+  }
+
+}
+
+@media screen and (max-width: 540px) {
+
+  header {
+    padding: 0 2%;
+  }
+
+  .container {
+    padding: 0 10px;
+  }
+
+  .logo {
+    font-size: 20px;
+  }
+
+  .fullscreen-bg {
+    padding-top: 53%;
+    background-color: black;
+  }
+
+  .video-block {
+    height: 100%;
+  }
+
+  .overlay {
+    height: 135%;
+  }
+
+  .fullscreen-bg__video {
+    height: 133%;
+  }
+
+  .dropdown {
+    margin-left: 35px;
+  }
+
+  .main-block {
+    padding: 0px 20px;
+    text-align: center;
+  }
+
+  .main-title-block {
+    margin: 0px 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+  .main-subtitle-block {
+    margin: 0px 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+
+  .main-block-title {
+    font-size: 25px;
+    margin: 0;
+  }
+
+  .main-block-subtitle {
+    font-size: 23px;
+    margin: 0px 0 0 0;
+  }
+
+  .card {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
+
+  .card-subtitle {
+    font-size: 16px;
+  }
+
+
+  .variants {
+    padding: 0 30px;
+  }
+
+  .variants-block {
+    flex-direction: column;
+  }
+
+  .first-block {
+    width: 100%;
+  }
+
+  .second-block {
+    width: 100%;
+  }
+
+  .features-block-img {
+    width: 100%;
+  }
+
+  .second-block-title {
+    font-size: 20px;
+  }
+
+  .second-block-subtitle {
+    font-size: 16px;
+  }
+
+  .features-block-title {
+    font-size: 20px;
+  }
+
+
+  .features {
+    padding: 0;
+    margin-top: 20px;
+  }
+
+  .feature {
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  .features-img {
+    width: 10%;
+  }
+
+  .feature-title {
+    font-size: 20px;
+  }
+
+  .features-subtitle {
+    font-size: 16px;
+  }
+
+  .features-title-block {
+    margin-bottom: 10px;
+  }
+
+  .statistics {
+    flex-direction: column;
+    margin-top: 0;
+    border: none;
+    margin-bottom: 20px;
+  }
+
+
+
+  .statistic {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .statistic-subtitle {
+    margin: 15px 0;
+  }
+
+  .statistic-small-subtitle {
+    margin-top: 10px;
+  }
+
+  .social-block {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .social {
+    border-radius: 0;
+    height: 50px;
+    display: block;
+    margin-bottom: 25px;
+  }
+
+  .twogis {
+  margin: 0px 5px 5px 5px;
+  text-decoration: none;
+  }
+
+  .gis {
+    margin: 0px 10px 13px 7px;
+    border-radius: 5px;
+  }
+
+
+  .footer-btn {
+    margin-top: 20px;
+  }
+
+}  
+
+@media screen and (max-width: 372px) {
+  .fullscreen-bg {
+    padding-top: 100%;
+    background-color: black;
+  }
+
+  .main-block-title {
+    font-size: 25px;
+    margin: 0;
+    padding: 0 0 28px 0;
+  }
+
+  .main-block-subtitle {
+    font-size: 23px;
+    margin: 0px 0 0 0;
+    padding: 0 0 0 0;
+  }
+
+
+}
